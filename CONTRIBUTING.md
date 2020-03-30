@@ -1,5 +1,7 @@
 # Contributing
 
+## Bitte sende eine Email an : alain.chomik@endress.com
+
 Your contributions are always welcome!
 
 ## Guidelines
